@@ -1,0 +1,162 @@
+[
+    {
+        "hyp": "Don't worry, it's only temporary.",
+        "tgt": "Don't worry. It's only temporary.",
+        "src": "\u041d\u0435 \u0432\u043e\u043b\u043d\u0443\u0439\u0441\u044f. \u042d\u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Tom is never where he should be.",
+        "tgt": "Tom is never where he's supposed to be.",
+        "src": "\u0422\u043e\u043c\u0430 \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435\u0442 \u0442\u0430\u043c, \u0433\u0434\u0435 \u043e\u043d \u0434\u043e\u043b\u0436\u0435\u043d \u0431\u044b\u0442\u044c.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "It's hard for me to work with Tom.",
+        "tgt": "I have trouble working with Tom.",
+        "src": "\u041c\u043d\u0435 \u0441\u043b\u043e\u0436\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0422\u043e\u043c\u043e\u043c.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Water, please.",
+        "tgt": "I'd like some water.",
+        "src": "\u0412\u043e\u0434\u0443, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "I didn't expect Tom to betray me.",
+        "tgt": "I didn't think that Tom would betray me.",
+        "src": "\u042f \u043d\u0435 \u043e\u0436\u0438\u0434\u0430\u043b, \u0447\u0442\u043e \u0422\u043e\u043c \u043f\u0440\u0435\u0434\u0430\u0441\u0442 \u043c\u0435\u043d\u044f.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "It's not as bad as Tom thinks.",
+        "tgt": "Things aren't as bad as Tom thinks.",
+        "src": "\u0412\u0441\u0451 \u043d\u0435 \u0442\u0430\u043a \u043f\u043b\u043e\u0445\u043e, \u043a\u0430\u043a \u0434\u0443\u043c\u0430\u0435\u0442 \u0422\u043e\u043c.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Don't complicate it.",
+        "tgt": "Keep it simple.",
+        "src": "\u041d\u0435 \u0443\u0441\u043b\u043e\u0436\u043d\u044f\u0439\u0442\u0435.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Why can't you accept me as I am?",
+        "tgt": "Why can't you accept me as I am?",
+        "src": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0432\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u043c\u0435\u043d\u044f \u0442\u0430\u043a\u0438\u043c, \u043a\u0430\u043a\u043e\u0439 \u044f \u0435\u0441\u0442\u044c?",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "I hate this place.",
+        "tgt": "I hate this place.",
+        "src": "\u041d\u0435\u043d\u0430\u0432\u0438\u0436\u0443 \u044d\u0442\u043e \u043c\u0435\u0441\u0442\u043e.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Tom is here as a volunteer.",
+        "tgt": "Tom is there as a volunteer.",
+        "src": "\u0422\u043e\u043c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0442\u0430\u043c \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0434\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0446\u0430.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Can I have one too?",
+        "tgt": "Can I have one, too?",
+        "src": "\u041c\u043e\u0436\u043d\u043e \u043c\u043d\u0435 \u0442\u043e\u0436\u0435 \u043e\u0434\u043d\u0443?",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "You're different in life than in a picture.",
+        "tgt": "You look different than your picture.",
+        "src": "\u0422\u044b \u0432 \u0436\u0438\u0437\u043d\u0438 \u043d\u0435 \u0442\u0430\u043a\u043e\u0439, \u043a\u0430\u043a \u043d\u0430 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "She started working in her new office.",
+        "tgt": "She began to get the feel of her new office.",
+        "src": "\u041e\u043d\u0430 \u043d\u0430\u0447\u0430\u043b\u0430 \u043e\u0441\u0432\u0430\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u0441\u0432\u043e\u0435\u043c \u043d\u043e\u0432\u043e\u043c \u043e\u0444\u0438\u0441\u0435.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "I don't have anything to do right now.",
+        "tgt": "I don't have anything to do now.",
+        "src": "\u0423 \u043c\u0435\u043d\u044f \u0441\u0435\u0439\u0447\u0430\u0441 \u043d\u0435\u0442 \u0434\u0435\u043b.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "The equator divides the earth into two hemispheres.",
+        "tgt": "The equator divides the earth into two hemispheres.",
+        "src": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440 \u0434\u0435\u043b\u0438\u0442 \u0437\u0435\u043c\u043b\u044e \u043d\u0430 \u0434\u0432\u0430 \u043f\u043e\u043b\u0443\u0448\u0430\u0440\u0438\u044f.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "I would like to become a Christian.",
+        "tgt": "I would like to become a Christian.",
+        "src": "\u042f \u0445\u043e\u0442\u0435\u043b \u0431\u044b \u0441\u0442\u0430\u0442\u044c \u0445\u0440\u0438\u0441\u0442\u0438\u0430\u043d\u0438\u043d\u043e\u043c.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Everyone will be jealous of you.",
+        "tgt": "Everyone will envy you.",
+        "src": "\u0412\u0441\u0435 \u0431\u0443\u0434\u0443\u0442 \u0442\u0435\u0431\u0435 \u0437\u0430\u0432\u0438\u0434\u043e\u0432\u0430\u0442\u044c.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Tom bought a new piano.",
+        "tgt": "Tom bought himself a new piano.",
+        "src": "\u0422\u043e\u043c \u043a\u0443\u043f\u0438\u043b \u0441\u0435\u0431\u0435 \u043d\u043e\u0432\u043e\u0435 \u043f\u0438\u0430\u043d\u0438\u043d\u043e.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Did you know Tom had three brothers?",
+        "tgt": "Did you know that Tom had three brothers?",
+        "src": "\u0412\u044b \u0437\u043d\u0430\u043b\u0438, \u0447\u0442\u043e \u0443 \u0422\u043e\u043c\u0430 \u0442\u0440\u0438 \u0431\u0440\u0430\u0442\u0430?",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    },
+    {
+        "hyp": "Don't let Tom jump on the bed.",
+        "tgt": "Don't let Tom jump on the bed.",
+        "src": "\u041d\u0435 \u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u0422\u043e\u043c\u0443 \u043f\u0440\u044b\u0433\u0430\u0442\u044c \u043d\u0430 \u043a\u0440\u043e\u0432\u0430\u0442\u0438.",
+        "ref": "either",
+        "task": "MT",
+        "model": ""
+    }
+]

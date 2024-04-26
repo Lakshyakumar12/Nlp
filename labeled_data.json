@@ -1,0 +1,182 @@
+[
+    {
+        "hyp": "Don't worry, it's only temporary.",
+        "tgt": "Don't worry. It's only temporary.",
+        "src": "Не волнуйся. Это только временно.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Tom is never where he should be.",
+        "tgt": "Tom is never where he's supposed to be.",
+        "src": "Тома никогда нет там, где он должен быть.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "It's hard for me to work with Tom.",
+        "tgt": "I have trouble working with Tom.",
+        "src": "Мне сложно работать с Томом.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Hallucination"
+    },
+    {
+        "hyp": "Water, please.",
+        "tgt": "I'd like some water.",
+        "src": "Воду, пожалуйста.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Hallucination"
+    },
+    {
+        "hyp": "I didn't expect Tom to betray me.",
+        "tgt": "I didn't think that Tom would betray me.",
+        "src": "Я не ожидал, что Том предаст меня.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "It's not as bad as Tom thinks.",
+        "tgt": "Things aren't as bad as Tom thinks.",
+        "src": "Всё не так плохо, как думает Том.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Don't complicate it.",
+        "tgt": "Keep it simple.",
+        "src": "Не усложняйте.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Hallucination"
+    },
+    {
+        "hyp": "Why can't you accept me as I am?",
+        "tgt": "Why can't you accept me as I am?",
+        "src": "Почему вы не можете принять меня таким, какой я есть?",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "I hate this place.",
+        "tgt": "I hate this place.",
+        "src": "Ненавижу это место.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Tom is here as a volunteer.",
+        "tgt": "Tom is there as a volunteer.",
+        "src": "Том находится там в качестве добровольца.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Can I have one too?",
+        "tgt": "Can I have one, too?",
+        "src": "Можно мне тоже одну?",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "You're different in life than in a picture.",
+        "tgt": "You look different than your picture.",
+        "src": "Ты в жизни не такой, как на фотографии.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "She started working in her new office.",
+        "tgt": "She began to get the feel of her new office.",
+        "src": "Она начала осваиваться в своем новом офисе.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "I don't have anything to do right now.",
+        "tgt": "I don't have anything to do now.",
+        "src": "У меня сейчас нет дел.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "The equator divides the earth into two hemispheres.",
+        "tgt": "The equator divides the earth into two hemispheres.",
+        "src": "Экватор делит землю на два полушария.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "I would like to become a Christian.",
+        "tgt": "I would like to become a Christian.",
+        "src": "Я хотел бы стать христианином.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Everyone will be jealous of you.",
+        "tgt": "Everyone will envy you.",
+        "src": "Все будут тебе завидовать.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Tom bought a new piano.",
+        "tgt": "Tom bought himself a new piano.",
+        "src": "Том купил себе новое пианино.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Did you know Tom had three brothers?",
+        "tgt": "Did you know that Tom had three brothers?",
+        "src": "Вы знали, что у Тома три брата?",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    },
+    {
+        "hyp": "Don't let Tom jump on the bed.",
+        "tgt": "Don't let Tom jump on the bed.",
+        "src": "Не давайте Тому прыгать на кровати.",
+        "ref": "either",
+        "task": "MT",
+        "model": "",
+        "label": "Not Hallucination"
+    }
+]
